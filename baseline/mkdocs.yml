@@ -8,7 +8,7 @@ nav:
 
 theme:
   palette:
-    primary: light blue
+    primary: red
     accent: light blue
     scheme: slate
   language: en

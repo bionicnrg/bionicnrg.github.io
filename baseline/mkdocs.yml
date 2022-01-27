@@ -1,0 +1,17 @@
+site_name: blackbox docs
+site_url: https://bionicnrg.github.io/
+nav:
+    - Home: index.md
+    - Projects:
+        - P320: Projects/p320.md
+    - FAQ: faq.md
+
+theme:
+  palette:
+    primary: light blue
+    accent: light blue
+    scheme: slate
+  language: en
+  features:
+    - navigation.instant
+  name: material

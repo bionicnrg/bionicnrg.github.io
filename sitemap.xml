@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://example.com/</loc>
-         <lastmod>2022-01-26</lastmod>
+         <loc>https://jamlewisiii.github.io/</loc>
+         <lastmod>2022-01-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jamlewisiii.github.io/projects/</loc>
+         <lastmod>2022-01-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

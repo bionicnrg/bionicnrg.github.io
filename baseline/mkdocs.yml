@@ -22,7 +22,7 @@ copyright: Copyright &copy; 2020 - 2021 James Lewis
 
 theme:
   palette:
-    primary: light blue
+    primary: red
     accent: light blue
     scheme: slate
   language: en

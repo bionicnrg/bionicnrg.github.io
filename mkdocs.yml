@@ -1,0 +1,36 @@
+site_name: Blackbox docs
+site_url: https://bionicnrg.github.io/
+nav:
+    - Home: index.md
+    - Artstation: https://www.bionicnrg.com
+    - Project Documentation:
+        - P320: Projects/p320.md
+        - Plasma Rifle: Projects/prifle.md
+    - QA: qa.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin 
+      link: https://www.linkedin.com/in/jameselewis/
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/bnrg_rt
+    - icon: fontawesome/brands/instagram 
+      link: https://www.instagram.com/Bionicnrg
+  generator: false
+
+copyright: Copyright &copy; 2020 - 2021 James Lewis
+
+theme:
+  palette:
+    primary: light blue
+    accent: light blue
+    scheme: slate
+  language: en
+  features:
+    - navigation.instant
+    - navigation.top
+  font:
+    text: Roboto
+  logo: assets/youTube002.png
+  favicon: assets/favicon-32x32.png
+  name: material

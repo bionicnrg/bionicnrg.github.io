@@ -2,7 +2,6 @@ name: ci
 on:
   push:
     branches:
-      - gh-pages
       - mkdocs_proj_staging
 jobs:
   deploy:

@@ -2,7 +2,7 @@ name: ci
 on:
   push:
     branches:
-      - mkdocs_proj_staging
+      - main
 jobs:
   deploy:
     runs-on: ubuntu-latest
